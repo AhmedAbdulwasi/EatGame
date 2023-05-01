@@ -1,0 +1,4 @@
+1) Open Visual Studio Code
+2) Drag Assets and throw it in Visual Studio Code
+3) Drag main.py to the tab section of Visual Studio Code and release it there.
+4) Click the Run button and everything should work for you to try the game!
