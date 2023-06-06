@@ -1,5 +1,5 @@
 # EAT!
-#### A simple Python game (using Pygame) inspired from the Google Play game, Hot Balloon and a little bit from Pac Man. I've created my own sound effects and characters (images) and edited them using Photoshop and Premiere Pro so please forgive me if it looks bad. The only thing that is not mine is the fonts.
+A simple Python game (using Pygame) inspired from the Google Play game, Hot Balloon and a little bit from Pac Man. I've created my own sound effects and characters (images) and edited them using Photoshop and Premiere Pro so please forgive me if it looks bad. The only thing that is not mine is the fonts.
 
 ## To run this game:
 - You need to click on Code and then download the zip. 
