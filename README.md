@@ -12,5 +12,11 @@ The plus signs (+) gives you a point while the negative sign (-) subtracts a poi
 https://user-images.githubusercontent.com/98428365/235546817-136f98fe-37ab-4035-822e-80f5c9755e1d.mp4
 
 
-###### If you want to leave the game at ANY point, click the red x button (exit) on the top right of the program.
+If you want to leave the game at ANY point, click the red x button (exit) on the top right of the program.
+
+## Why?
+I was playing Hot Balloon while I was in a subway train and I had the idea of creating a similar one but with more points (such as + and -) which the game lacked. I also wanted to make something that includes my own drawings and sound effects to show a little of originality.
+
+## Languages and Technologies
+- Python (Pygame)
 
