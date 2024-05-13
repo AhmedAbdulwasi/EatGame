@@ -172,10 +172,6 @@ def game_over():
                 sys.exit()
     #pass
 
-def difficulty():
-    pass
-    # I might add a difficulty screen or not. I don't know yet
-
 
 # main loop
 def main():
